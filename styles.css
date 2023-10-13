@@ -1,0 +1,12 @@
+h1 {
+  color: rgb(27, 140, 245);
+}
+p {
+  color: rgba(7, 82, 92, 0.966);
+  font-size: 20px;
+}
+a {
+  color: coral;
+  font-size: 18px;
+  text-decoration: none;
+}
